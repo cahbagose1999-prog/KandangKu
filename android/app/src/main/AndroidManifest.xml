@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kandangku.app">
+
+    <application
+        android:label="KandangKu"
+        android:icon="@mipmap/ic_launcher">
+    </application>
+
+</manifest>
